@@ -1,4 +1,6 @@
-groq
-dotenv
 fastapi
-uvicorn
+uvicorn[standard]
+jinja2
+starlette
+groq
+python-dotenv
